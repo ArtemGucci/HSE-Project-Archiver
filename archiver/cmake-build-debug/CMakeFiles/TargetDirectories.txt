@@ -1,0 +1,8 @@
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/src/CMakeFiles/archiver.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/tests/CMakeFiles/test_archiver.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/ponchik/Git/HSE-Project-Archiver/archiver/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
