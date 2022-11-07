@@ -1,0 +1,3 @@
+/home/ponchik/hse/code/workshop_c++/pmi-222-2-Artem-Gukov-Doughnutik/tasks/archiver/src/build/CMakeFiles/rebuild_cache.dir
+/home/ponchik/hse/code/workshop_c++/pmi-222-2-Artem-Gukov-Doughnutik/tasks/archiver/src/build/CMakeFiles/edit_cache.dir
+/home/ponchik/hse/code/workshop_c++/pmi-222-2-Artem-Gukov-Doughnutik/tasks/archiver/src/build/CMakeFiles/archiver.dir
